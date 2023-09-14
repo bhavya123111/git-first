@@ -1,2 +1,6 @@
 Hello from git
+<<<<<<< HEAD
 hello
+=======
+hi
+>>>>>>> development
